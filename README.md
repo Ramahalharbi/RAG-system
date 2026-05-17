@@ -52,3 +52,9 @@ Run the notebook `movie_rag_pipeline.ipynb` from top to bottom. This generates t
 - Groq — LLM inference
 - Llama 3.3 70B — answer generation
 - IMDB Top 1000 — movie dataset
+
+# Demo
+<img width="296" height="168" alt="ScreenRecording" src="https://github.com/user-attachments/assets/8b2d0767-2c2b-4448-977a-60f4054ce163" />
+
+
+To display the video: upload the recording file to your GitHub repo, then replace the link above with the actual raw URL.
